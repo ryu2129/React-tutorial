@@ -4,7 +4,7 @@ import { AdminFlagContext } from "./providers/AdminFlagProvider";
 const style = {
   width: "100px",
   padding: "6px",
-  borderRadius: "8px"
+  borderRadius: "5px"
 };
 
 export const EditButton = () => {
